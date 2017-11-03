@@ -12,5 +12,5 @@ Recuerda:
 * Para la segunda entrega escribe tu programa y guardarlo en un archivo .py
 * Subir el programa a tu proyecto en github. (Commit & Push)
 ## Abrir el Pull Request para que te califique. 
-	* Grupo 04, 29 de noviembre.
-	* Grupo 02: 30 de noviembre.
+* Grupo 04, 29 de noviembre.
+* Grupo 02, 30 de noviembre.
